@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanayjoshi21
-- 👀 I’m interested in DEEP LEARNING 
-- 🌱 I’m currently learning DEEP LEARNING & MACHINE LEARNING 
-- 💞️ I’m looking to collaborate on DEEP LEARNING 
+- 👀 I’m interested in LEARNING 
+- 🌱 I’m currently learning and Working on Android Devlopment
+- 💞️ I’m looking to collaborate on Android Devlopment
 - 📫 How to reach me tanayjoshi21122@gmail.com
 <!---
 tanayjoshi21/tanayjoshi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
