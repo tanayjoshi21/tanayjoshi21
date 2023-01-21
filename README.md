@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tanayjoshi21
-- 👀 I’m interested in LEARNING 
-- 🌱 I’m currently learning and Working on Android Devlopment
+- 👋 Hi, I’m @Tanay Joshi
+- 👀 I’m interested in Android & Java Development
 - 💞️ I’m looking to collaborate on Android Devlopment
 - 📫 How to reach me tanayjoshi21122@gmail.com
 <!---
